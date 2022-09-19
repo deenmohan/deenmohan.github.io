@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news | </title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>news</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>news</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>May 2022 - Starting as Research Scientist Intern at Yahoo Research</title>
+      <link>https://example.com/post/internship/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>December 2021 - Our paper &#39;Target adaptive pooling for set based face recogntion&#39; is Best student paper runner up at FG 2021.</title>
+      <link>https://example.com/post/fg-bestpaper/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/fg-bestpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>May 2021 - Starting as Research Scientist Intern at Verizon Media</title>
+      <link>https://example.com/post/internship_vm/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/internship_vm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
